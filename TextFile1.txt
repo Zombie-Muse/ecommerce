@@ -1,0 +1,5 @@
+﻿<form.... action=>
+    <input type=submit...>
+</form>
+
+ServerString: ServerProgram?querystring value pairs separated by &
